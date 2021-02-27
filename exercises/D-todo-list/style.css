@@ -151,6 +151,15 @@ body {
 #greenBtn {
   background: #87ca8a;
 }
+.line-through {
+  text-decoration: line-through;
+}
+li {
+  text-align: center;
+  list-style: none;
+  line-height: 4rem;
+  cursor: pointer;
+}
 
 @media screen and (min-width: 992px) {
   .navbar-brand > img {
